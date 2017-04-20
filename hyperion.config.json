@@ -1,0 +1,1001 @@
+{
+    "framegrabber": {
+        "width": 64,
+        "frequency_Hz": 10.0,
+        "height": 64
+    },
+    "leds": [
+        {
+            "vscan": {
+                "minimum": 0.92859999999999998,
+                "maximum": 1.0
+            },
+            "index": 0,
+            "hscan": {
+                "minimum": 0.0,
+                "maximum": 0.080000000000000002
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.85709999999999997,
+                "maximum": 0.92859999999999998
+            },
+            "index": 1,
+            "hscan": {
+                "minimum": 0.0,
+                "maximum": 0.080000000000000002
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.78569999999999995,
+                "maximum": 0.85709999999999997
+            },
+            "index": 2,
+            "hscan": {
+                "minimum": 0.0,
+                "maximum": 0.080000000000000002
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.71430000000000005,
+                "maximum": 0.78569999999999995
+            },
+            "index": 3,
+            "hscan": {
+                "minimum": 0.0,
+                "maximum": 0.080000000000000002
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.64290000000000003,
+                "maximum": 0.71430000000000005
+            },
+            "index": 4,
+            "hscan": {
+                "minimum": 0.0,
+                "maximum": 0.080000000000000002
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.57140000000000002,
+                "maximum": 0.64290000000000003
+            },
+            "index": 5,
+            "hscan": {
+                "minimum": 0.0,
+                "maximum": 0.080000000000000002
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.5,
+                "maximum": 0.57140000000000002
+            },
+            "index": 6,
+            "hscan": {
+                "minimum": 0.0,
+                "maximum": 0.080000000000000002
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.42859999999999998,
+                "maximum": 0.5
+            },
+            "index": 7,
+            "hscan": {
+                "minimum": 0.0,
+                "maximum": 0.080000000000000002
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.35709999999999997,
+                "maximum": 0.42859999999999998
+            },
+            "index": 8,
+            "hscan": {
+                "minimum": 0.0,
+                "maximum": 0.080000000000000002
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.28570000000000001,
+                "maximum": 0.35709999999999997
+            },
+            "index": 9,
+            "hscan": {
+                "minimum": 0.0,
+                "maximum": 0.080000000000000002
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.21429999999999999,
+                "maximum": 0.28570000000000001
+            },
+            "index": 10,
+            "hscan": {
+                "minimum": 0.0,
+                "maximum": 0.080000000000000002
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.1429,
+                "maximum": 0.21429999999999999
+            },
+            "index": 11,
+            "hscan": {
+                "minimum": 0.0,
+                "maximum": 0.080000000000000002
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.071400000000000005,
+                "maximum": 0.1429
+            },
+            "index": 12,
+            "hscan": {
+                "minimum": 0.0,
+                "maximum": 0.080000000000000002
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.0,
+                "maximum": 0.071400000000000005
+            },
+            "index": 13,
+            "hscan": {
+                "minimum": 0.0,
+                "maximum": 0.080000000000000002
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.0,
+                "maximum": 0.10000000000000001
+            },
+            "index": 14,
+            "hscan": {
+                "minimum": 0.0,
+                "maximum": 0.036999999999999998
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.0,
+                "maximum": 0.10000000000000001
+            },
+            "index": 15,
+            "hscan": {
+                "minimum": 0.036999999999999998,
+                "maximum": 0.074099999999999999
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.0,
+                "maximum": 0.10000000000000001
+            },
+            "index": 16,
+            "hscan": {
+                "minimum": 0.074099999999999999,
+                "maximum": 0.1111
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.0,
+                "maximum": 0.10000000000000001
+            },
+            "index": 17,
+            "hscan": {
+                "minimum": 0.1111,
+                "maximum": 0.14810000000000001
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.0,
+                "maximum": 0.10000000000000001
+            },
+            "index": 18,
+            "hscan": {
+                "minimum": 0.14810000000000001,
+                "maximum": 0.1852
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.0,
+                "maximum": 0.10000000000000001
+            },
+            "index": 19,
+            "hscan": {
+                "minimum": 0.1852,
+                "maximum": 0.22220000000000001
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.0,
+                "maximum": 0.10000000000000001
+            },
+            "index": 20,
+            "hscan": {
+                "minimum": 0.22220000000000001,
+                "maximum": 0.25929999999999997
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.0,
+                "maximum": 0.10000000000000001
+            },
+            "index": 21,
+            "hscan": {
+                "minimum": 0.25929999999999997,
+                "maximum": 0.29630000000000001
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.0,
+                "maximum": 0.10000000000000001
+            },
+            "index": 22,
+            "hscan": {
+                "minimum": 0.29630000000000001,
+                "maximum": 0.33329999999999999
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.0,
+                "maximum": 0.10000000000000001
+            },
+            "index": 23,
+            "hscan": {
+                "minimum": 0.33329999999999999,
+                "maximum": 0.37040000000000001
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.0,
+                "maximum": 0.10000000000000001
+            },
+            "index": 24,
+            "hscan": {
+                "minimum": 0.37040000000000001,
+                "maximum": 0.40739999999999998
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.0,
+                "maximum": 0.10000000000000001
+            },
+            "index": 25,
+            "hscan": {
+                "minimum": 0.40739999999999998,
+                "maximum": 0.44440000000000002
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.0,
+                "maximum": 0.10000000000000001
+            },
+            "index": 26,
+            "hscan": {
+                "minimum": 0.44440000000000002,
+                "maximum": 0.48149999999999998
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.0,
+                "maximum": 0.10000000000000001
+            },
+            "index": 27,
+            "hscan": {
+                "minimum": 0.48149999999999998,
+                "maximum": 0.51849999999999996
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.0,
+                "maximum": 0.10000000000000001
+            },
+            "index": 28,
+            "hscan": {
+                "minimum": 0.51849999999999996,
+                "maximum": 0.55559999999999998
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.0,
+                "maximum": 0.10000000000000001
+            },
+            "index": 29,
+            "hscan": {
+                "minimum": 0.55559999999999998,
+                "maximum": 0.59260000000000002
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.0,
+                "maximum": 0.10000000000000001
+            },
+            "index": 30,
+            "hscan": {
+                "minimum": 0.59260000000000002,
+                "maximum": 0.62960000000000005
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.0,
+                "maximum": 0.10000000000000001
+            },
+            "index": 31,
+            "hscan": {
+                "minimum": 0.62960000000000005,
+                "maximum": 0.66669999999999996
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.0,
+                "maximum": 0.10000000000000001
+            },
+            "index": 32,
+            "hscan": {
+                "minimum": 0.66669999999999996,
+                "maximum": 0.70369999999999999
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.0,
+                "maximum": 0.10000000000000001
+            },
+            "index": 33,
+            "hscan": {
+                "minimum": 0.70369999999999999,
+                "maximum": 0.74070000000000003
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.0,
+                "maximum": 0.10000000000000001
+            },
+            "index": 34,
+            "hscan": {
+                "minimum": 0.74070000000000003,
+                "maximum": 0.77780000000000005
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.0,
+                "maximum": 0.10000000000000001
+            },
+            "index": 35,
+            "hscan": {
+                "minimum": 0.77780000000000005,
+                "maximum": 0.81479999999999997
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.0,
+                "maximum": 0.10000000000000001
+            },
+            "index": 36,
+            "hscan": {
+                "minimum": 0.81479999999999997,
+                "maximum": 0.85189999999999999
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.0,
+                "maximum": 0.10000000000000001
+            },
+            "index": 37,
+            "hscan": {
+                "minimum": 0.85189999999999999,
+                "maximum": 0.88890000000000002
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.0,
+                "maximum": 0.10000000000000001
+            },
+            "index": 38,
+            "hscan": {
+                "minimum": 0.88890000000000002,
+                "maximum": 0.92589999999999995
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.0,
+                "maximum": 0.10000000000000001
+            },
+            "index": 39,
+            "hscan": {
+                "minimum": 0.92589999999999995,
+                "maximum": 0.96299999999999997
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.0,
+                "maximum": 0.10000000000000001
+            },
+            "index": 40,
+            "hscan": {
+                "minimum": 0.96299999999999997,
+                "maximum": 1.0
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.0,
+                "maximum": 0.071400000000000005
+            },
+            "index": 41,
+            "hscan": {
+                "minimum": 0.92000000000000004,
+                "maximum": 1.0
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.071400000000000005,
+                "maximum": 0.1429
+            },
+            "index": 42,
+            "hscan": {
+                "minimum": 0.92000000000000004,
+                "maximum": 1.0
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.1429,
+                "maximum": 0.21429999999999999
+            },
+            "index": 43,
+            "hscan": {
+                "minimum": 0.92000000000000004,
+                "maximum": 1.0
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.21429999999999999,
+                "maximum": 0.28570000000000001
+            },
+            "index": 44,
+            "hscan": {
+                "minimum": 0.92000000000000004,
+                "maximum": 1.0
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.28570000000000001,
+                "maximum": 0.35709999999999997
+            },
+            "index": 45,
+            "hscan": {
+                "minimum": 0.92000000000000004,
+                "maximum": 1.0
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.35709999999999997,
+                "maximum": 0.42859999999999998
+            },
+            "index": 46,
+            "hscan": {
+                "minimum": 0.92000000000000004,
+                "maximum": 1.0
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.42859999999999998,
+                "maximum": 0.5
+            },
+            "index": 47,
+            "hscan": {
+                "minimum": 0.92000000000000004,
+                "maximum": 1.0
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.5,
+                "maximum": 0.57140000000000002
+            },
+            "index": 48,
+            "hscan": {
+                "minimum": 0.92000000000000004,
+                "maximum": 1.0
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.57140000000000002,
+                "maximum": 0.64290000000000003
+            },
+            "index": 49,
+            "hscan": {
+                "minimum": 0.92000000000000004,
+                "maximum": 1.0
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.64290000000000003,
+                "maximum": 0.71430000000000005
+            },
+            "index": 50,
+            "hscan": {
+                "minimum": 0.92000000000000004,
+                "maximum": 1.0
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.71430000000000005,
+                "maximum": 0.78569999999999995
+            },
+            "index": 51,
+            "hscan": {
+                "minimum": 0.92000000000000004,
+                "maximum": 1.0
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.78569999999999995,
+                "maximum": 0.85709999999999997
+            },
+            "index": 52,
+            "hscan": {
+                "minimum": 0.92000000000000004,
+                "maximum": 1.0
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.85709999999999997,
+                "maximum": 0.92859999999999998
+            },
+            "index": 53,
+            "hscan": {
+                "minimum": 0.92000000000000004,
+                "maximum": 1.0
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.92859999999999998,
+                "maximum": 1.0
+            },
+            "index": 54,
+            "hscan": {
+                "minimum": 0.92000000000000004,
+                "maximum": 1.0
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.90000000000000002,
+                "maximum": 1.0
+            },
+            "index": 55,
+            "hscan": {
+                "minimum": 0.96299999999999997,
+                "maximum": 1.0
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.90000000000000002,
+                "maximum": 1.0
+            },
+            "index": 56,
+            "hscan": {
+                "minimum": 0.92589999999999995,
+                "maximum": 0.96299999999999997
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.90000000000000002,
+                "maximum": 1.0
+            },
+            "index": 57,
+            "hscan": {
+                "minimum": 0.88890000000000002,
+                "maximum": 0.92589999999999995
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.90000000000000002,
+                "maximum": 1.0
+            },
+            "index": 58,
+            "hscan": {
+                "minimum": 0.85189999999999999,
+                "maximum": 0.88890000000000002
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.90000000000000002,
+                "maximum": 1.0
+            },
+            "index": 59,
+            "hscan": {
+                "minimum": 0.81479999999999997,
+                "maximum": 0.85189999999999999
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.90000000000000002,
+                "maximum": 1.0
+            },
+            "index": 60,
+            "hscan": {
+                "minimum": 0.77780000000000005,
+                "maximum": 0.81479999999999997
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.90000000000000002,
+                "maximum": 1.0
+            },
+            "index": 61,
+            "hscan": {
+                "minimum": 0.74070000000000003,
+                "maximum": 0.77780000000000005
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.90000000000000002,
+                "maximum": 1.0
+            },
+            "index": 62,
+            "hscan": {
+                "minimum": 0.70369999999999999,
+                "maximum": 0.74070000000000003
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.90000000000000002,
+                "maximum": 1.0
+            },
+            "index": 63,
+            "hscan": {
+                "minimum": 0.66669999999999996,
+                "maximum": 0.70369999999999999
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.90000000000000002,
+                "maximum": 1.0
+            },
+            "index": 64,
+            "hscan": {
+                "minimum": 0.62960000000000005,
+                "maximum": 0.66669999999999996
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.90000000000000002,
+                "maximum": 1.0
+            },
+            "index": 65,
+            "hscan": {
+                "minimum": 0.59260000000000002,
+                "maximum": 0.62960000000000005
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.90000000000000002,
+                "maximum": 1.0
+            },
+            "index": 66,
+            "hscan": {
+                "minimum": 0.55559999999999998,
+                "maximum": 0.59260000000000002
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.90000000000000002,
+                "maximum": 1.0
+            },
+            "index": 67,
+            "hscan": {
+                "minimum": 0.51849999999999996,
+                "maximum": 0.55559999999999998
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.90000000000000002,
+                "maximum": 1.0
+            },
+            "index": 68,
+            "hscan": {
+                "minimum": 0.48149999999999998,
+                "maximum": 0.51849999999999996
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.90000000000000002,
+                "maximum": 1.0
+            },
+            "index": 69,
+            "hscan": {
+                "minimum": 0.44440000000000002,
+                "maximum": 0.48149999999999998
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.90000000000000002,
+                "maximum": 1.0
+            },
+            "index": 70,
+            "hscan": {
+                "minimum": 0.40739999999999998,
+                "maximum": 0.44440000000000002
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.90000000000000002,
+                "maximum": 1.0
+            },
+            "index": 71,
+            "hscan": {
+                "minimum": 0.37040000000000001,
+                "maximum": 0.40739999999999998
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.90000000000000002,
+                "maximum": 1.0
+            },
+            "index": 72,
+            "hscan": {
+                "minimum": 0.33329999999999999,
+                "maximum": 0.37040000000000001
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.90000000000000002,
+                "maximum": 1.0
+            },
+            "index": 73,
+            "hscan": {
+                "minimum": 0.29630000000000001,
+                "maximum": 0.33329999999999999
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.90000000000000002,
+                "maximum": 1.0
+            },
+            "index": 74,
+            "hscan": {
+                "minimum": 0.25929999999999997,
+                "maximum": 0.29630000000000001
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.90000000000000002,
+                "maximum": 1.0
+            },
+            "index": 75,
+            "hscan": {
+                "minimum": 0.22220000000000001,
+                "maximum": 0.25929999999999997
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.90000000000000002,
+                "maximum": 1.0
+            },
+            "index": 76,
+            "hscan": {
+                "minimum": 0.1852,
+                "maximum": 0.22220000000000001
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.90000000000000002,
+                "maximum": 1.0
+            },
+            "index": 77,
+            "hscan": {
+                "minimum": 0.14810000000000001,
+                "maximum": 0.1852
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.90000000000000002,
+                "maximum": 1.0
+            },
+            "index": 78,
+            "hscan": {
+                "minimum": 0.1111,
+                "maximum": 0.14810000000000001
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.90000000000000002,
+                "maximum": 1.0
+            },
+            "index": 79,
+            "hscan": {
+                "minimum": 0.074099999999999999,
+                "maximum": 0.1111
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.90000000000000002,
+                "maximum": 1.0
+            },
+            "index": 80,
+            "hscan": {
+                "minimum": 0.036999999999999998,
+                "maximum": 0.074099999999999999
+            }
+        },
+        {
+            "vscan": {
+                "minimum": 0.90000000000000002,
+                "maximum": 1.0
+            },
+            "index": 81,
+            "hscan": {
+                "minimum": 0.0,
+                "maximum": 0.036999999999999998
+            }
+        }
+    ],
+    "blackborderdetector": {
+        "threshold": 0.10000000000000001,
+        "enable": true
+    },
+    "endOfJson": "endOfJson",
+    "color": {
+        "transform": [
+            {
+                "blue": {
+                    "threshold": 0.050000000000000003,
+                    "blacklevel": 0.0,
+                    "whitelevel": 1.0,
+                    "gamma": 2.6000000000000001
+                },
+                "leds": "0-81",
+                "hsv": {
+                    "saturationGain": 1.0,
+                    "valueGain": 1.0
+                },
+                "green": {
+                    "threshold": 0.050000000000000003,
+                    "blacklevel": 0.0,
+                    "whitelevel": 1.0,
+                    "gamma": 2.6000000000000001
+                },
+                "id": "leds",
+                "red": {
+                    "threshold": 0.050000000000000003,
+                    "blacklevel": 0.0,
+                    "whitelevel": 0.84999999999999998,
+                    "gamma": 2.7000000000000002
+                }
+            }
+        ],
+        "smoothing": {
+            "updateFrequency": 20,
+            "time_ms": 100,
+            "type": "linear"
+        }
+    },
+    "bootsequence": {
+        "duration_ms": 3000,
+        "effect": "Rainbow swirl fast"
+    },
+    "protoServer": {
+        "port": 19445
+    },
+    "effects": {
+        "paths": [
+            "/storage/hyperion/effects"
+        ]
+    },
+    "device": {
+        "colorOrder": "bgr",
+        "rate": 500000,
+        "type": "adalightapa102",
+        "name": "MyPi",
+        "output": "/dev/ttyACM0"
+    },
+    "xbmcVideoChecker": {
+        "grabVideo": true,
+        "grabPictures": true,
+        "xbmcTcpPort": 9090,
+        "grabAudio": true,
+        "grabMenu": false,
+        "enable3DDetection": true,
+        "xbmcAddress": "127.0.0.1",
+        "grabScreensaver": true
+    },
+    "jsonServer": {
+        "port": 19444
+    },
+    "grabber-v4l2": {
+        "cropLeft": 46,
+        "cropTop": 20,
+        "cropRight": 42,
+        "width": 720,
+        "blueSignalThreshold": 0.20000000000000001,
+        "redSignalThreshold": 0.20000000000000001,
+        "height": 576,
+        "priority": 880,
+        "frameDecimation": 2,
+        "sizeDecimation": 8,
+        "mode": "2D",
+        "device": "/dev/video0",
+        "input": 0,
+        "standard": "PAL",
+        "cropBottom": 37,
+        "greenSignalThreshold": 0.20000000000000001
+    }
+}
